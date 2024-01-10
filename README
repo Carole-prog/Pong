@@ -1,0 +1,20 @@
+# PONG
+
+// Images du jeu
+// Concept du jeu
+// Problème rencontré lors du dev du jeu et comment on a résolu les problèmes
+
+## Objectif
+
+- Menu Interatif ( New Game , Settings , Exit )
+- Jeu (Bouton pause, avec option en appuyant sur échap)
+    Rajout de petite box pour rajouter du challenge( comme ça on pourra jouer avec les collisions )
+- Options ( Baisser le son de la musique, pourquoi pas la sensibilité de la souris )
+- Musique sympa
+- Ecran de fin ( Record, Temps, Bouton restart, exit )
+
+- Dimensions :
+  - Images :
+    - Balle : 32 x 32  
+    - raquette : 32 x 128
+    - plateau : 800 x 600
